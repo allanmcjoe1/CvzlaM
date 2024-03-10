@@ -24,7 +24,7 @@ Main|Shared|Admin
 * Playlist Sharing
 * Upload Files through the file explorer
 
-## Installing mStream
+## Installing Cultura Venezuela Música
 
 * [Install From Source](docs/install.md)
 * [Docker Instructions](https://github.com/linuxserver/docker-mstream)
