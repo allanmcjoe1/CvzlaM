@@ -2,10 +2,6 @@
 
 Cultura Venezuela Música es un servidor de música online que resguarda la data de todos los músicos, cultores, agrupaciones y todo aquel interprete autoctono o extranjero que este inscrito en el Centro Nacional del Disco y en la Gran Misión Viva Venezuela Mi Patria Querida. llevando la música venezolana a donde sea y donde estes. usando en esta oportunicad como base para el proyecto el servidor MSTREAM.
 
-Main|Shared|
----|---|---
-![main](https://ibb.co/vhdr9c3])|![shared](https://ibb.co/7XgVsjz)|
-
 ## Demo & Other Links
 
 #### [Discord Channel](https://discord.gg/AM896Rr)
