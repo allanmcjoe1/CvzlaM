@@ -1,18 +1,16 @@
-# mStream Music
+# Cultura Venezuela Música
 
-mStream is a personal music streaming server.  You can use mStream to stream your music from your home computer to any device, anywhere.
+Cultura Venezuela Música es un servidor de música online que resguarda la data de todos los músicos, cultores, agrupaciones y todo aquel interprete autoctono o extranjero que este inscrito en el Centro Nacional del Disco y en la Gran Misión Viva Venezuela Mi Patria Querida. llevando la música venezolana a donde sea y donde estes. usando en esta oportunicad como base para el proyecto el servidor MSTREAM.
 
 Main|Shared|Admin
 ---|---|---
-![main](/docs/designs/mstreamv5.png?raw=true)|![shared](/docs/designs/shared.png?raw=true)|![admin](/docs/designs/admin.png?raw=true)
+![main](https://ibb.co/vhdr9c3)|![shared](https://ibb.co/7XgVsjz)|
 
 ## Demo & Other Links
 
-### [Check Out The Demo!](https://demo.mstream.io/)
-
 #### [Discord Channel](https://discord.gg/AM896Rr)
 
-#### [Website](https://mstream.io)
+#### [Website](https:)
 
 ### Server Features
 * Cross Platform. Works on Windows, OSX, Linux, & FreeBSD
@@ -62,8 +60,10 @@ node cli-boot-wrapper.js
 
 ## Credits
 
-mStream is built on top some great open-source libraries:
+Cultura Venezuela Música
+is built on top some great open-source libraries:
 
+* https://github.com/IrosTheBeggar/mstream_music/
 * [music-metadata](https://github.com/Borewit/music-metadata) - The best metadata parser for NodeJS
 * [LokiJS](https://github.com/techfort/LokiJS) - A native, in-memory, database written in JavaScript.  LokiJS is the reason mStream is so fast and easy to install
 * [Butterchurn](https://github.com/jberg/butterchurn) - A clone of Milkdrop Visualizer written in JavaScript
